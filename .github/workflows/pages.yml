@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main, claude/upbeat-cerf-povcs0]
   workflow_dispatch:
 
 permissions:
